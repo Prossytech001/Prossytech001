@@ -44,7 +44,7 @@ I’m a results-driven software engineer with hands-on experience in full-stack 
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prosper-onyebuchi-548535307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **LinkedIn:**[https://www.linkedin.com/in/prosper-onyebuchi-548535307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - **Email:** (prosperonyebuchi01@gmail.com )
 - 
 ---
